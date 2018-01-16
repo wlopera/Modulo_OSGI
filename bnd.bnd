@@ -1,0 +1,11 @@
+Bundle-SymbolicName: com.wlopera.osgi
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: OSGI_MODULO
+Bundle-SymbolicName: OSGI_MODULO
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: com.wlopera.osgi.Activator
+Bundle-Vendor: com.wlopera
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Import-Package: org.osgi.framework;version="1.3.0"
+Bundle-ActivationPolicy: lazy
